@@ -6,6 +6,13 @@
 
     lsComment = "テスト"
 
+        txtComment.Text = lsComment
+
+    End Sub
+
+    Private Sub NameChange()
+
+        txtComment.Text = lsComment
     End Sub
 
 End Class
