@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.810.25
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vb.net_introductory", "vb.net_introductory\vb.net_introductory.csproj", "{B944F8D5-7F87-45F9-BCB7-5302973B356F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "kevins", "kevins", "{D57D755C-FD05-4FB7-9763-6942EE59EA34}"
+	ProjectSection(SolutionItems) = preProject
+		Forms1.vb = Forms1.vb
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
