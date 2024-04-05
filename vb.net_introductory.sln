@@ -7,7 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vb.net_introductory", "vb.n
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "kevins", "kevins", "{D57D755C-FD05-4FB7-9763-6942EE59EA34}"
 	ProjectSection(SolutionItems) = preProject
-		Forms1.vb = Forms1.vb
+		Form2.vb = Form2.vb
+		Form1.vb = Form1.vb
 	EndProjectSection
 EndProject
 Global
